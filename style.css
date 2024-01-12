@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+h1 {
+  color: blue;
+  text-align: center;
+  text-transform: capitalize;
+}
+#para1 {
+  font-style: italic;
+}
